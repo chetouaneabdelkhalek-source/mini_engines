@@ -1,3 +1,0 @@
-/home/abdelkhalek/Documents/manjaro/ENSIA/roadmap/mini_engines/build/CMakeFiles/mini_engines_run.dir
-/home/abdelkhalek/Documents/manjaro/ENSIA/roadmap/mini_engines/build/CMakeFiles/edit_cache.dir
-/home/abdelkhalek/Documents/manjaro/ENSIA/roadmap/mini_engines/build/CMakeFiles/rebuild_cache.dir
