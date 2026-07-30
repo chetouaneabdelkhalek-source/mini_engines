@@ -14,9 +14,11 @@ add_executable(mini_engines_run
     src/test_expr_tree.cpp
     src/test_trie.cpp
     src/test_traversals.cpp
+    src/test_parser.cpp
     src/expr_tree.cpp
     src/traversals.cpp
     src/trie.cpp
+    src/parser.cpp
 )
 target_include_directories(mini_engines_run PRIVATE include)
 

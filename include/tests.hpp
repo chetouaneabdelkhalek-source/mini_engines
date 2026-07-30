@@ -4,5 +4,6 @@
 void run_expr_tree_tests();
 void run_trie_tests();
 void run_traversal_tests();
+void run_parser_tests();
 
 #endif
